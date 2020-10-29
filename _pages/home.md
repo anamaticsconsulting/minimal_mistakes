@@ -12,7 +12,7 @@ excerpt: >
   At Anamatics we take a client first approach to consulting...<br><small>novel concept</small><br />
   #<small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.20.2">Latest release v4.20.2</a></small>
 feature_row:
-  - image_path: /assets/images/capnmurica.jpg
+  - image_path: /assets/images/thanos.jpg
     alt: "customizable"
     title: "Super customizable"
     excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
