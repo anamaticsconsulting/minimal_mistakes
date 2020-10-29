@@ -9,7 +9,7 @@ header:
   #  - label: "<i class='fas fa-download'></i> Install now"
   #    url: "/docs/quick-start-guide/"
 excerpt: >
-  At Anamatics we take a client first approach to Consulting...<br />
+  At Anamatics we take a client first approach to consulting...<small>novel concept</small><br />
   #<small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.20.2">Latest release v4.20.2</a></small>
 feature_row:
   - image_path: /assets/images/capnmurica.jpg
