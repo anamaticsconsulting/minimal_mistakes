@@ -29,7 +29,7 @@ feature_row:
   - image_path: /assets/images/ironman.jpg
     alt: "ironman"
     title: "And...Tony"
-    excerpt: "But along comes Tony Stark...and game over (or end game?)."
+    excerpt: "Then along comes Tony Stark...and game over (or end game?)."
     url: "/docs/license/"
     btn_class: "btn--primary"
     btn_label: "Learn more"      
