@@ -11,3 +11,17 @@ main:
     url: /about/
   - title: "Contact Us"
     url: /contactus/    
+
+industries:
+  - title: Industry
+    children:
+      - title: "Distribution"
+        url: /docs/disty/
+      - title: "Manufacturing"
+        url: /docs/mfg/
+      - title: "Health Care"
+        url: /docs/hc/
+      - title: "Telecom"
+        url: /docs/telco/
+      - title: "Financial Services"
+        url: /docs/fs/        
