@@ -11,7 +11,7 @@ header:
 excerpt: >
   At Anamatics we take a client first approach to consulting...<br><small>novel concept</small><br />
 feature_row:
-  - image_path: /assets/images/thanos.jpg
+  - image_path: /assets/images/thanos.png
     alt: "customizable"
     title: "Super customizable"
     excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
