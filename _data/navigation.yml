@@ -12,16 +12,44 @@ main:
   - title: "Contact Us"
     url: /contactus/    
 
-industries:
+navbar:
   - title: Industry
+    url: /industry/
     children:
       - title: "Distribution"
-        url: /docs/disty/
+        url: /construction/
       - title: "Manufacturing"
-        url: /docs/mfg/
+        url: /construction/
       - title: "Health Care"
-        url: /docs/hc/
+        url: /construction/
       - title: "Telecom"
-        url: /docs/telco/
+        url: /construction/
       - title: "Financial Services"
-        url: /docs/fs/        
+        url: /construction/
+  - title: Functional
+    url: /functional/
+    children:
+      - title: "Finance"
+        url: /construction/
+      - title: "Marketing"
+        url: /construction/
+      - title: "Sales / Sales Operations"
+        url: /construction/    
+  - title: Technical
+    url: /technical/
+    children:
+      - title: "All Things Data"
+        url: /construction/
+      - title: "Project Leadership"
+        url: /construction/
+      - title: "Business Process Enablement"
+        url: /construction/  
+  - title: Project Experience
+    url: /projectexperience/
+    children:
+      - title: "All Things Data"
+        url: /construction/
+      - title: "Project Leadership"
+        url: /construction/
+      - title: "Business Process Enablement"
+        url: /construction/          
