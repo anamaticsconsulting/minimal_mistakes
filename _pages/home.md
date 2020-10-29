@@ -22,14 +22,14 @@ feature_row:
   - image_path: /assets/images/drstrange.jpg
     alt: "nerd"
     title: "Nerdery Ensues"
-    excerpt: "Then you realize this dude spent a large amount of time figuring out how to win."
+    excerpt: "Then you realize this guy spent a large amount of time figuring out how to win."
     url: "/docs/layouts/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/ironman.jpg
     alt: "ironman"
     title: "And...Tony"
-    excerpt: "But along comes Tony Stark...enough said."
+    excerpt: "But along comes Tony Stark...and game over (or end game?)."
     url: "/docs/license/"
     btn_class: "btn--primary"
     btn_label: "Learn more"      
