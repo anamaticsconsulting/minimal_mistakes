@@ -15,7 +15,7 @@ feature_row:
   - image_path: /assets/images/thanos.png
     alt: "grimace"
     title: "Grimace Thought He Had It"
-    excerpt: "Snapping away half of the universe is pretty exterme - this dude was riding high."
+    excerpt: "Snapping away half of the universe is pretty extreme - this dude was riding high."
     url: "/docs/configuration/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
