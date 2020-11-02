@@ -32,9 +32,9 @@ feature_row:
     excerpt: "Then along comes Tony Stark...and game over (or end game?)."
     url: "/docs/license/"
     btn_class: "btn--primary"
-    btn_label: "Learn more"      
+    btn_label: "Learn more" 
+    
+# {% include feature_row %}    
 ---
 
 By looking at each client business problem/opportunity uniquely we focus on providing our clients with an appropriate mix of <b>industry, functional and technical</b> experience to help clients <b>define</b> and <b>deliver</b> the best possible solutions.
-
-# {% include feature_row %}
