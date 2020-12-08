@@ -1,16 +1,16 @@
 main:
-  - title: "Industry"
-    url: /industry/
-  - title: "Functional"
-    url: /functional/
-  - title: "Technical"
-    url: /technical/
-  - title: "Project Experience"
-    url: /projectexperience/        
-  - title: "About"
-    url: /about/
-  - title: "Contact Us"
-    url: /contactus/    
+ # - title: "Industry"
+  #  url: /industry/
+ # - title: "Functional"
+ #   url: /functional/
+ # - title: "Technical"
+ #   url: /technical/
+ # - title: "Project Experience"
+ #   url: /projectexperience/        
+ # - title: "About"
+ #   url: /about/
+ # - title: "Contact Us"
+ #   url: /contactus/    
 
 navbar:
   - title: Industry
