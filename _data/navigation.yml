@@ -1,14 +1,14 @@
 main:
-  - title: "About Us"
-    url: /about/  
-  - title: "Values"
-    url: /values/
-  - title: "Services"
-    url: /technical/
-  - title: "Case Studies"
-    url: /projectexperience/        
-  - title: "Contact Us"
-    url: /contactus/
+  #- title: "About Us"
+  #  url: /about/  
+  #- title: "Values"
+  #  url: /values/
+  #- title: "Services"
+  #  url: /technical/
+  #- title: "Case Studies"
+  #  url: /projectexperience/        
+  #- title: "Contact Us"
+  #  url: /contactus/
 
 navbar:
   - title: Industry
