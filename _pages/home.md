@@ -34,7 +34,7 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Learn more" 
 
- {% include feature_row %}
+{% include feature_row %}
 ---
 
 By looking at each client business problem/opportunity uniquely we focus on providing our clients with an appropriate mix of <b>industry, functional and technical</b> experience to help clients <b>define</b> and <b>deliver</b> the best possible solutions.
