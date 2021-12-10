@@ -7,4 +7,4 @@ author_profile: false
 sidebar:
   nav: "navbar"
 ---
-<a href="mailto:email@example.com">Shoot us an e-mail, let's connect</a>
+<a href="mailto:info@anamaticsconsulting.com">Shoot us an e-mail, let's connect</a>
