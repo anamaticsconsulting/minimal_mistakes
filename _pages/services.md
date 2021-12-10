@@ -3,9 +3,10 @@ title: "Services"
 layout: categories
 permalink: /services/
 author_profile: false
+classes: wide
 
-sidebar:
-  nav: "navbar"
+#sidebar:
+#  nav: "navbar"
 ---
 <table>
 <tr>
