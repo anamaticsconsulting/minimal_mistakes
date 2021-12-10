@@ -10,7 +10,7 @@ header:
   #  - label: "<i class='fas fa-download'></i> Install now"
   #    url: "/docs/quick-start-guide/"
 excerpt: >
-  The client centric consulting approach for project leadership and all things data<br><small>Where ANAlytical and pragMATIC solutions thrive</small><br/>
+  The client centric consulting approach for project leadership and all things data<br><small>Where <b>ANA</b>lytical and prag<b>MATIC</b> solutions thrive</small><br/>
 feature_row:
   - image_path: /assets/images/thanos.png
     alt: "grimace"
@@ -38,3 +38,12 @@ feature_row:
 ---
 
 By looking at each client business problem/opportunity uniquely we focus on providing our clients with an appropriate mix of <b>industry, functional and technical</b> experience to help clients <b>define</b> and <b>deliver</b> the best possible solutions.
+<br>
+We commit to:
+<br>
+<ul>
+  <li>Investigate your challenges and opportunities</li>
+  <li>Leverage experience and <b>ANALYTIC</b> strengths to envision and articulate enhancements</li>
+  <li>Develop <b>PRAGMATIC</b> solutions that will endure</li>
+  <li>Define success as an adopted solution</li>
+</ul>
