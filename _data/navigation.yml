@@ -4,9 +4,9 @@ main:
   - title: "Values"
     url: /values/
   - title: "Services"
-    url: /technical/
+    url: /services/
   - title: "Case Studies"
-    url: /projectexperience/        
+    url: /casestudies/        
   - title: "Contact Us"
     url: /contactus/
 
