@@ -3,6 +3,7 @@ title: "Services"
 #layout: categories
 permalink: /services/
 author_profile: false
+hidden: true
 classes: wide
 
 #sidebar:
