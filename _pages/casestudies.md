@@ -1,7 +1,7 @@
 ---
-title: "Project Experience"
+title: "Case Studies"
 layout: categories
-permalink: /projectexperience/
+permalink: /casestudies/
 author_profile: false
 
 sidebar:
