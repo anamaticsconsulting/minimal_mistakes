@@ -1,6 +1,6 @@
 ---
 title: "Services"
-layout: categories
+#layout: categories
 permalink: /services/
 author_profile: false
 classes: wide
