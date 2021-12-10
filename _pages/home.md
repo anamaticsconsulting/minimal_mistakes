@@ -10,7 +10,7 @@ header:
   #  - label: "<i class='fas fa-download'></i> Install now"
   #    url: "/docs/quick-start-guide/"
 excerpt: >
-  At Anamatics we take a client first approach to consulting...<br><small>novel concept</small><br />
+  The client centric consulting approach for project leadership and all things data<br><small>Where ANAlytical and pragMATIC solutions thrive</small><br/>
 feature_row:
   - image_path: /assets/images/thanos.png
     alt: "grimace"
