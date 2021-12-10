@@ -10,44 +10,44 @@ main:
   - title: "Contact Us"
     url: /contactus/
 
-navbar:
-  - title: Industry
-    url: /industry/
-    children:
-      - title: "Distribution"
-        url: /construction/
-      - title: "Manufacturing"
-        url: /construction/
-      - title: "Health Care"
-        url: /construction/
-      - title: "Telecom"
-        url: /construction/
-      - title: "Financial Services"
-        url: /construction/
-  - title: Functional
-    url: /functional/
-    children:
-      - title: "Finance"
-        url: /construction/
-      - title: "Marketing"
-        url: /construction/
-      - title: "Sales / Sales Operations"
-        url: /construction/    
-  - title: Technical
-    url: /technical/
-    children:
-      - title: "All Things Data"
-        url: /construction/
-      - title: "Project Leadership"
-        url: /construction/
-      - title: "Business Process Enablement"
-        url: /construction/  
-  - title: Project Experience
-    url: /projectexperience/
-    children:
-      - title: "All Things Data"
-        url: /construction/
-      - title: "Project Leadership"
-        url: /construction/
-      - title: "Business Process Enablement"
-        url: /construction/          
+#navbar:
+#  - title: Industry
+#    url: /industry/
+#    children:
+#      - title: "Distribution"
+#        url: /construction/
+#      - title: "Manufacturing"
+#        url: /construction/
+#      - title: "Health Care"
+#        url: /construction/
+#      - title: "Telecom"
+#        url: /construction/
+#      - title: "Financial Services"
+#        url: /construction/
+#  - title: Functional
+#    url: /functional/
+#    children:
+#      - title: "Finance"
+#        url: /construction/
+#      - title: "Marketing"
+#        url: /construction/
+#      - title: "Sales / Sales Operations"
+#        url: /construction/    
+#  - title: Technical
+#    url: /technical/
+#    children:
+#      - title: "All Things Data"
+#        url: /construction/
+#      - title: "Project Leadership"
+#        url: /construction/
+#      - title: "Business Process Enablement"
+#        url: /construction/  
+#  - title: Project Experience
+#    url: /projectexperience/
+#    children:
+#      - title: "All Things Data"
+#        url: /construction/
+#      - title: "Project Leadership"
+#        url: /construction/
+#      - title: "Business Process Enablement"
+#        url: /construction/          
