@@ -1,6 +1,6 @@
 main:
-  #- title: "About Us"
-  #  url: /about/  
+  - title: "About Us"
+    url: /about/  
   - title: "Values"
     url: /values/
   - title: "Services"
