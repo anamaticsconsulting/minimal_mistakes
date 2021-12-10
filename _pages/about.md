@@ -1,11 +1,11 @@
 ---
 permalink: /about/
-title: "About"
+title: "About Us"
 
 sidebar:
   nav: "navbar"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Anamatics strives to be the environment where we all thrive.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+Where team members are highly qualified and dedicated to the success of the people around them.  Anamatics serves with pride but without ego. We are confident in our ability to do good work and cherish the opportunities to establish meaningful partnership along the way.  We left the confines of larger, over engineered work environments in order to provide higher value consulting services for our clients.  Anamatics encourages each of us to be the best version of ourselves and provides an opportunity for fulfilling work and partnership. Our team is responsible for living and positively evolving our culture.
